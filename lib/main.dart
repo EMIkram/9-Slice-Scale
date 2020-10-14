@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(NineSlice());
 }
+//
 final Color primaryColor = Colors.orange;
 final TargetPlatform platform = TargetPlatform.android;
 
